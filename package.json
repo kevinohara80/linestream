@@ -1,0 +1,24 @@
+{
+  "name": "linestream",
+  "version": "0.0.1",
+  "description": "a node.js readable/writable stream that emits data on new lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kevinohara80/linestream.git"
+  },
+  "keywords": [
+    "stream",
+    "newline",
+    "crlf"
+  ],
+  "author": "Kevin O'Hara",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "tap": "~0.3.3"
+  }
+}
